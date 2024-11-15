@@ -19,8 +19,8 @@ No installation is required—simply clone the repository and open the `index.ht
 - **JavaScript**: For QR code generation and dark/light mode functionality.
 
 ## Contact
--Email :- skhamrui2002@gmail.com
--Linkdin :- https://www.linkedin.com/in/susanta-khamrui/
+**Email** :- skhamrui2002@gmail.com
+**Linkdin** :- https://www.linkedin.com/in/susanta-khamrui/
 
 ## License
 This project is licensed under the MIT License.
